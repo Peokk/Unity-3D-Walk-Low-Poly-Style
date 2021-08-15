@@ -1,1 +1,1 @@
-Ukończony i skompilowany projekt gotowy do pobrania i uruchomienia.
+Ukończony i skompilowany projekt gotowy do pobrania i uruchomienia przez `New Unity Project.exe`.
