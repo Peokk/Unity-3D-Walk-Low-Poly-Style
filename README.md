@@ -1,1 +1,1 @@
-Ukończony i skompilowany projekt gotowy do pobrania.
+Ukończony i skompilowany projekt gotowy do pobrania i uruchomienia.
